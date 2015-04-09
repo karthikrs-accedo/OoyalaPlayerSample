@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:AdvancedPlaybackSampleApp/AdvancedPlaybackSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:BasicPlaybackSampleApp/BasicPlaybackSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:CompleteSampleApp/CompleteSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ContentProtectionSampleApp/ContentProtectionSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:FreewheelSampleApp/FreewheelSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:IMASampleApp/IMASampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OoyalaAPISampleApp/OoyalaAPISampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:OptionsSampleApp/OptionsSampleApp.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:README.md">
+   </FileRef>
+</Workspace>
