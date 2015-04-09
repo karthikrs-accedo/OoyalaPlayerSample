@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>87CB1F32-88A5-401E-80C9-0265CA9A7200</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SampleApps</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>5F5025D78677C82DCD4969A0FEF3ECF735FF63DD</key>
+		<string>https://github.com/karthikrs-accedo/OoyalaPlayerSample.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>SampleApps.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>5F5025D78677C82DCD4969A0FEF3ECF735FF63DD</key>
+		<string>..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/karthikrs-accedo/OoyalaPlayerSample.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>5F5025D78677C82DCD4969A0FEF3ECF735FF63DD</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>5F5025D78677C82DCD4969A0FEF3ECF735FF63DD</string>
+			<key>IDESourceControlWCCName</key>
+			<string>OoyalaPlayerSample</string>
+		</dict>
+	</array>
+</dict>
+</plist>
